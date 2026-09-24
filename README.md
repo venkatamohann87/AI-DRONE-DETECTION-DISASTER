@@ -1,4 +1,4 @@
-# Megathon Rescue Detection Project
+# Multi-modal late fusion with multi-scale detection and temporal tracking.
 
 This project contains a YOLOv8 person-detection training pipeline and a local rescue dashboard for viewing live detections.
 
