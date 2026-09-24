@@ -1,0 +1,253 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.155925,
+          11.650604
+        ]
+      },
+      "properties": {
+        "track_id": 5,
+        "class": "person",
+        "confidence": 0.4881402850151062,
+        "confirmed": true,
+        "frames_seen": 32,
+        "moving": true,
+        "priority_score": 54.52561140060425,
+        "priority_level": "MEDIUM",
+        "thermal_score": 0.0,
+        "sonar_score": 0.0,
+        "sonar_target_type": "",
+        "uwb_score": 0.0,
+        "estimated_count": 1,
+        "merged_from": [
+          5
+        ],
+        "evidence_thumbnail": "survivor_evidence\\evidence_track_5_frame_130_conf_0.49.jpg",
+        "source": "RGB",
+        "thermal": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.150819,
+          11.650225
+        ]
+      },
+      "properties": {
+        "track_id": 1,
+        "class": "person",
+        "confidence": 0.45759910345077515,
+        "confirmed": true,
+        "frames_seen": 8,
+        "moving": true,
+        "priority_score": 48.303964138031006,
+        "priority_level": "LOW",
+        "thermal_score": 0.0,
+        "sonar_score": 0.0,
+        "sonar_target_type": "",
+        "uwb_score": 0.0,
+        "estimated_count": 1,
+        "merged_from": [
+          1
+        ],
+        "evidence_thumbnail": "survivor_evidence\\evidence_track_1_frame_24_conf_0.46.jpg",
+        "source": "RGB",
+        "thermal": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.159144,
+          11.651283
+        ]
+      },
+      "properties": {
+        "track_id": 6,
+        "class": "person",
+        "confidence": 0.35713857412338257,
+        "confirmed": false,
+        "frames_seen": 1,
+        "moving": false,
+        "priority_score": 16.785542964935303,
+        "priority_level": "LOW",
+        "thermal_score": 0.0,
+        "sonar_score": 0.0,
+        "sonar_target_type": "",
+        "uwb_score": 0.0,
+        "estimated_count": 1,
+        "merged_from": [
+          6
+        ],
+        "evidence_thumbnail": "survivor_evidence\\evidence_track_6_frame_224_conf_0.36.jpg",
+        "source": "RGB",
+        "thermal": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.150489,
+          11.649618
+        ]
+      },
+      "properties": {
+        "track_id": 2,
+        "class": "person",
+        "confidence": 0.2963709831237793,
+        "confirmed": false,
+        "frames_seen": 4,
+        "moving": true,
+        "priority_score": 31.854839324951172,
+        "priority_level": "LOW",
+        "thermal_score": 0.0,
+        "sonar_score": 0.0,
+        "sonar_target_type": "",
+        "uwb_score": 0.0,
+        "estimated_count": 1,
+        "merged_from": [
+          2
+        ],
+        "evidence_thumbnail": "survivor_evidence\\evidence_track_2_frame_15_conf_0.30.jpg",
+        "source": "RGB",
+        "thermal": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.168155,
+          11.652033
+        ]
+      },
+      "properties": {
+        "track_id": 7,
+        "class": "person",
+        "confidence": 0.29053157567977905,
+        "confirmed": false,
+        "frames_seen": 1,
+        "moving": false,
+        "priority_score": 14.121263027191162,
+        "priority_level": "LOW",
+        "thermal_score": 0.0,
+        "sonar_score": 0.0,
+        "sonar_target_type": "",
+        "uwb_score": 0.0,
+        "estimated_count": 1,
+        "merged_from": [
+          7
+        ],
+        "evidence_thumbnail": "survivor_evidence\\evidence_track_7_frame_442_conf_0.29.jpg",
+        "source": "RGB",
+        "thermal": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.171374,
+          11.652538
+        ]
+      },
+      "properties": {
+        "track_id": 8,
+        "class": "person",
+        "confidence": 0.26662105321884155,
+        "confirmed": false,
+        "frames_seen": 1,
+        "moving": false,
+        "priority_score": 13.164842128753662,
+        "priority_level": "LOW",
+        "thermal_score": 0.0,
+        "sonar_score": 0.0,
+        "sonar_target_type": "",
+        "uwb_score": 0.0,
+        "estimated_count": 1,
+        "merged_from": [
+          8
+        ],
+        "evidence_thumbnail": "survivor_evidence\\evidence_track_8_frame_515_conf_0.27.jpg",
+        "source": "RGB",
+        "thermal": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.153383,
+          11.650261
+        ]
+      },
+      "properties": {
+        "track_id": 4,
+        "class": "person",
+        "confidence": 0.26030027866363525,
+        "confirmed": false,
+        "frames_seen": 1,
+        "moving": false,
+        "priority_score": 12.91201114654541,
+        "priority_level": "LOW",
+        "thermal_score": 0.0,
+        "sonar_score": 0.0,
+        "sonar_target_type": "",
+        "uwb_score": 0.0,
+        "estimated_count": 1,
+        "merged_from": [
+          4
+        ],
+        "evidence_thumbnail": "survivor_evidence\\evidence_track_4_frame_78_conf_0.26.jpg",
+        "source": "RGB",
+        "thermal": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.152912,
+          11.650484
+        ]
+      },
+      "properties": {
+        "track_id": 3,
+        "class": "person",
+        "confidence": 0.2537468373775482,
+        "confirmed": false,
+        "frames_seen": 1,
+        "moving": false,
+        "priority_score": 12.649873495101929,
+        "priority_level": "LOW",
+        "thermal_score": 0.0,
+        "sonar_score": 0.0,
+        "sonar_target_type": "",
+        "uwb_score": 0.0,
+        "estimated_count": 1,
+        "merged_from": [
+          3
+        ],
+        "evidence_thumbnail": "survivor_evidence\\evidence_track_3_frame_67_conf_0.25.jpg",
+        "source": "RGB",
+        "thermal": false
+      }
+    }
+  ]
+}
